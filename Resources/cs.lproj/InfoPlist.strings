@@ -1,0 +1,24 @@
+/* macOS Automation permission prompt. */
+"NSAppleEventsUsageDescription" = "Vorssaint používá automatizaci na přesouvání souborů, přesun položek do koše, otevírání vyžádaných příkazů a na ovládání přehrávání ve vašich mediálních aplikacích.";
+
+/* macOS Screen & System Audio Recording permission prompt. */
+"NSAudioCaptureUsageDescription" = "Vorssaint používá zvuk každé aplikace na nastavení její hlasitosti v mixéru, na rozpohybování hudebních sloupců Dynamic Island a na přidání zvuku Maca do nahrávek obrazovky, které spustíte. Nic neopustí váš Mac.";
+
+/* macOS Bluetooth permission prompt. */
+"NSBluetoothAlwaysUsageDescription" = "Vorssaint používá Bluetooth jen na načítání stavu baterie připojeného příslušenství. Nic neopustí váš Mac.";
+
+/* macOS Microphone permission prompt. */
+"NSMicrophoneUsageDescription" = "Vorssaint nahrává váš mikrofon jen tehdy, když ho zapnete pro nahrávání obrazovky. Zvuk zůstává na vašem Macu, pokud sa nerozhodnete vytvořit dočasný odkaz.";
+
+/* macOS Camera permission prompt. */
+"NSCameraUsageDescription" = "Vorssaint zobrazuje vaši kameru jen v okně náhledu, které otevřete, abyste před hovorem viděli, jak vypadáte. Nic se nenahrává a nic neopustí váš Mac.";
+
+/* macOS Downloads folder permission prompt. */
+"NSDownloadsFolderUsageDescription" = "Vorssaint kontroluje lokální metadata v složce Stahování, aby prověřil, uspořádal nebo přesunul do koše jen potvrzené soubory z WhatsAppu, které vyberete. Čištění také hledá zapomenuté snímky obrazovky, pokud je sem ukládáte.";
+
+/* macOS user-selected organizer destination prompts. */
+"NSDesktopFolderUsageDescription" = "Vorssaint uspořádává potvrzené stáhnuté soubory z WhatsAppu do cílové složky, který výsloveně vyberete. Čištění také hledá zapomenuté snímky obrazovky, pokud je sem ukládáte.";
+"NSDocumentsFolderUsageDescription" = "Vorssaint uspořádává potvrzené stáhnuté soubory z WhatsAppu do cílové složky, který výsloveně vyberete. Čištění také hledá zapomenuté snímky obrazovky, pokud je sem ukládáte.";
+"NSNetworkVolumesUsageDescription" = "Vorssaint uspořádává potvrzené stáhnuté soubory z WhatsAppu do cílové složky, který výsloveně vyberete. Čištění také hledá zapomenuté snímky obrazovky, pokud je sem ukládáte.";
+"NSRemovableVolumesUsageDescription" = "Vorssaint uspořádává potvrzené stáhnuté soubory z WhatsAppu do cílové složky, který výsloveně vyberete. Čištění také hledá zapomenuté snímky obrazovky, pokud je sem ukládáte.";
+"NSCalendarsFullAccessUsageDescription" = "Zobrazte svoje nadcházející události v horní části obrazovky. Události kalendáře zůstávají na tomto Macu.";
